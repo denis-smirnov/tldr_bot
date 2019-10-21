@@ -4,7 +4,7 @@ beautifulsoup4==4.6.0
 chardet==3.0.2
 langdetect==1.0.7
 multidict==2.1.4
-nltk==3.2.2
+nltk==3.4.5
 six==1.10.0
 SQLAlchemy==1.1.9
 telepot==10.5
