@@ -8,5 +8,5 @@ nltk==3.2.2
 six==1.10.0
 SQLAlchemy==1.1.9
 telepot==10.5
-urllib3==1.21.1
+urllib3==1.26.5
 yarl==0.10.2
